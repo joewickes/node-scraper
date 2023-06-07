@@ -1,6 +1,7 @@
 # node-scraper
 
-// [![NPM version](https://img.shields.io/npm/v/node-scraper.svg?style=flat)](https://www.npmjs.com/package/node-scraper) [![NPM monthly downloads](https://img.shields.io/npm/dm/node-scraper.svg?style=flat)](https://npmjs.org/package/node-scraper) [![NPM total downloads](https://img.shields.io/npm/dt/node-scraper.svg?style=flat)](https://npmjs.org/package/node-scraper)
+<!--
+[![NPM version](https://img.shields.io/npm/v/node-scraper.svg?style=flat)](https://www.npmjs.com/package/node-scraper) [![NPM monthly downloads](https://img.shields.io/npm/dm/node-scraper.svg?style=flat)](https://npmjs.org/package/node-scraper) [![NPM total downloads](https://img.shields.io/npm/dt/node-scraper.svg?style=flat)](https://npmjs.org/package/node-scraper) -->
 
 ## Install
 
