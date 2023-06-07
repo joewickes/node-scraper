@@ -1,1 +1,21 @@
-{}
+{
+  "sites": {
+    "Nintendo": {
+      "url": "https://www.nintendo.com/store/games/nintendo-switch-games/",
+      "element_type": "div",
+      "container_class": "BasicTilestyles__Info",
+      "repeating_exact_classes": [
+        {
+          "title": "Game",
+          "element": "h2",
+          "class_name": "Headingstyles__Styled"
+        },
+        {
+          "title": "Price",
+          "element": "span",
+          "class_name": "Pricestyles__MSRP"
+        }
+      ]
+    }
+  }
+}
